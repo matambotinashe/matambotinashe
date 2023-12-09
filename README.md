@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @matambotinashe
-- 👀 I’m interested in machine learning and A.I.
-- 🌱 I’m currently learning towards being a ML/AI engineer.
+- 👋 Hi, I’m Tinashe Matambo
+- 👀 I’m interested in machine learning and A.I. operationalisation to generate positive impact.
+- 🌱 I’m currently learning towards being a Senior ML/AI engineer.
 - 💞️ I’m looking to collaborate on data science project involving building ML or DL models solving real world problems.
 
 <!---
